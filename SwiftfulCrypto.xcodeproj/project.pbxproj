@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		ACAFFD582E50698A00E78A25 /* SwiftfulCrypto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = SwiftfulCrypto.app; path = "/Users/igorcumikov/Documents/Projects/Разные/Git/SwiftfulCrypto/build/Debug-iphoneos/SwiftfulCrypto.app"; sourceTree = "<absolute>"; };
+		ACDB87132E6577FF00793C40 /* SwiftfulCrypto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulCrypto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				ACAFFD5A2E50698A00E78A25 /* SwiftfulCrypto */,
+				ACDB87132E6577FF00793C40 /* SwiftfulCrypto.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = SwiftfulCrypto;
-			productReference = ACAFFD582E50698A00E78A25 /* SwiftfulCrypto.app */;
+			productReference = ACDB87132E6577FF00793C40 /* SwiftfulCrypto.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
